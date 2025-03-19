@@ -9,5 +9,5 @@ Covariance and Hessian matrices have been analyzed separately in the literature 
 
 ## Source code
 
-The complete source code and datasets for our experiments are accessible through 'WBCD dataset experiment', 'Heart disease dataset experiment', and 'Illustrative case study on WBCD dataset'. These notebooks contain the complete source
+The complete source code and datasets for our experiments are accessible through `WBCD dataset experiment`, 'Heart disease dataset experiment', and 'Illustrative case study on WBCD dataset'. These notebooks contain the complete source
 code along with the datasets accessed from the same Google Drive account, facilitating easy reproduction and comprehension of our results.
