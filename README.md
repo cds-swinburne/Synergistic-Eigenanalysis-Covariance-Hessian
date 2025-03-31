@@ -1,7 +1,7 @@
 # Synergistic eigenanalysis of covariance and Hessian matrices for enhanced binary classification on health datasets
 Agus Hartoyo, Jan Argasiński, Aleksandra Trenk, Kinga Przybylska, Anna Błasiak, Alessandro Crimi
 
-[Preprint link](https://arxiv.org/abs/2402.09281)
+[Publication link](https://www.sciencedirect.com/science/article/pii/S0010482525003361?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=290243590&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM554133&utm_source=AC_)
 
 ## Abstract
 
